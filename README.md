@@ -1,8 +1,8 @@
 # TheoDoiNgoaiTe
 I) Thông tin cá nhân 🧑‍🎓
-Họ Và Tên: Dương Văn Ninh.
-MSSV :K205480106049
-Môn Học: Lập Trình Python
+- Họ Và Tên: Dương Văn Ninh.
+- MSSV :K205480106049
+- Môn Học: Lập Trình Python
 
 II) Đề tài: Theo dõi các tỉ giá tiền tệ.
 1. Python và Fastapi.
