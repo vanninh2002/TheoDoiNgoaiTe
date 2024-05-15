@@ -14,7 +14,7 @@
 # 3. MSSQL.📖
 - Table: lưu tỉ giá của tiền tệ.
 - SP: Tạo Sp lấy dữ liệu và vẽ biểu đồ thể hiện tỉ giá.
-- Tạo sp lấy dữ liệu và hiện thị lịch sử ra bảng.
+- Tạo sp lấy dữ liệu và hiện thị lịch sử ra bảng trên web.
 # 4. Web:🌐
 - Xây dựng web hiện thị lịch sử và vẽ biểu đồ.
 - Có thêm phần chuyển đổi tiền tệ. ( Nếu có thể làm 😅).
