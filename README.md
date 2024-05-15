@@ -12,9 +12,11 @@
 - Xây dựng một chu trình trong Node-RED để tự động gọi API Python để lấy dữ liệu.
 - Sau đó sử dụng các function xử lý dữ liệu và lưu dữ liệu vào MSSQL.
 # 3. MSSQL.📖
-- Table: lưu tỉ giá của tiền tệ.
-- SP: Tạo Sp lấy dữ liệu và vẽ biểu đồ thể hiện tỉ giá.
-- Tạo sp lấy dữ liệu và hiện thị lịch sử ra bảng trên web.
+ Table: lưu tỉ giá của tiền tệ.
+ SP:
+- Tạo Sp insert lấy dữ liệu từ node-red
+- Tạo Sp lấy dữ liệu và vẽ biểu đồ thể hiện tỉ giá trên web.
+- Tạo Sp lấy dữ liệu và hiện thị lịch sử ra bảng trên web.
 # 4. Web:🌐
 - Xây dựng web hiện thị lịch sử và vẽ biểu đồ.
 - Có thêm phần chuyển đổi tiền tệ. ( Nếu có thể làm 😅).
