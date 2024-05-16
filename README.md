@@ -6,14 +6,13 @@
 
 # II) 💼 Đề tài: Theo dõi các tỉ giá tiền tệ.💴
 # 1. Python và Fastapi.⚡
-- Sử dụng python tạo fasapi lấy dữ liệu tỉ giá tiền tệ từ API.
+- Sử dụng python tạo fastapi lấy dữ liệu tỉ giá tiền tệ từ API.
 - API: https://app.exchangerate-api.com/dashboard/confirmed
 # 2. Node-red:🛑
 - Xây dựng một chu trình trong Node-RED để tự động gọi API Python để lấy dữ liệu.
 - Sau đó sử dụng các function xử lý dữ liệu và lưu dữ liệu vào MSSQL.
 # 3. MSSQL.📖
 - Table: lưu tỉ giá của tiền tệ.
-- SP:
 - Tạo Sp insert lấy dữ liệu từ node-red
 - Tạo Sp lấy dữ liệu và vẽ biểu đồ thể hiện tỉ giá trên web.
 - Tạo Sp lấy dữ liệu và hiện thị lịch sử ra bảng trên web.
